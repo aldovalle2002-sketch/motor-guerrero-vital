@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+twilio
+boto3
+llama-index
+pandas
+pydantic
